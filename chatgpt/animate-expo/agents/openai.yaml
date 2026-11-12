@@ -1,0 +1,5 @@
+interface:
+  display_name: "Animar en Expo"
+  short_description: "Animaciones en React Native y Expo"
+policy:
+  allow_implicit_invocation: true

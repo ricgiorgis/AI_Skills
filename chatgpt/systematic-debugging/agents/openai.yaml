@@ -1,0 +1,5 @@
+interface:
+  display_name: "Debugging sistemático"
+  short_description: "Diagnosticar bugs antes de proponer arreglos"
+policy:
+  allow_implicit_invocation: true

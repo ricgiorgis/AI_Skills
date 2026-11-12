@@ -1,0 +1,5 @@
+interface:
+  display_name: "Copy de ventas"
+  short_description: "Páginas de venta y secuencias por claridad, no manipulación"
+policy:
+  allow_implicit_invocation: true

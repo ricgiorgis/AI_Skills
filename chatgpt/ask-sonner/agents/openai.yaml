@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sonner"
+  short_description: "Toasts en React con Sonner"
+policy:
+  allow_implicit_invocation: true

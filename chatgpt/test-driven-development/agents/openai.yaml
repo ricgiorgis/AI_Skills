@@ -1,0 +1,5 @@
+interface:
+  display_name: "TDD"
+  short_description: "Pruebas primero en features y bugfixes"
+policy:
+  allow_implicit_invocation: true

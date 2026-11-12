@@ -1,0 +1,5 @@
+interface:
+  display_name: "Mejorar animaciones"
+  short_description: "Auditoría priorizada del código de animación"
+policy:
+  allow_implicit_invocation: true

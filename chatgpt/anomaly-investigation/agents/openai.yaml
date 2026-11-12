@@ -1,0 +1,5 @@
+interface:
+  display_name: "Investigar anomalías"
+  short_description: "Causa raíz de un pico, caída o valor inesperado"
+policy:
+  allow_implicit_invocation: true

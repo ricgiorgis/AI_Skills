@@ -1,0 +1,5 @@
+interface:
+  display_name: "Seguridad de API keys"
+  short_description: "Generación, hash, scoping, rotación y monitoreo de fugas de API keys"
+policy:
+  allow_implicit_invocation: true

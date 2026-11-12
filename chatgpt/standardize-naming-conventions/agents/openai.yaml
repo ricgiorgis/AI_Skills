@@ -1,0 +1,5 @@
+interface:
+  display_name: "Convenciones de nombres"
+  short_description: "Estandarizar nombres en modelos TMDL"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,5 @@
+interface:
+  display_name: "API vs OWASP Top 10"
+  short_description: "Prueba endpoints REST/GraphQL contra el OWASP API Security Top 10 antes de producción"
+policy:
+  allow_implicit_invocation: true

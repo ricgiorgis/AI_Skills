@@ -1,0 +1,5 @@
+interface:
+  display_name: "Diseño estilo Apple"
+  short_description: "Gestos, springs y movimiento físico para la web"
+policy:
+  allow_implicit_invocation: true

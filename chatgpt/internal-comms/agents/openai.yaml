@@ -1,0 +1,5 @@
+interface:
+  display_name: "Comunicación interna"
+  short_description: "Updates, reportes de estado, FAQs y newsletters internos"
+policy:
+  allow_implicit_invocation: true

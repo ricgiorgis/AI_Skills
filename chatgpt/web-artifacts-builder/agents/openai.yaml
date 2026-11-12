@@ -1,0 +1,5 @@
+interface:
+  display_name: "Artifacts web"
+  short_description: "Artifacts HTML complejos con React, Tailwind y shadcn/ui"
+policy:
+  allow_implicit_invocation: true

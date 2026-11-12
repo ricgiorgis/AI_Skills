@@ -1,0 +1,5 @@
+interface:
+  display_name: "Unit economics"
+  short_description: "CAC, LTV, payback, margen y punto de equilibrio"
+policy:
+  allow_implicit_invocation: true

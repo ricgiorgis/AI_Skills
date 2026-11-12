@@ -1,0 +1,5 @@
+interface:
+  display_name: "Paquetes npm maliciosos"
+  short_description: "Revisa dependencias y lockfiles por malware en install scripts y robo de credenciales"
+policy:
+  allow_implicit_invocation: true

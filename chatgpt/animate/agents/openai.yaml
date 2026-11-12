@@ -1,0 +1,5 @@
+interface:
+  display_name: "Animar"
+  short_description: "Construir una animación decidiendo en el orden correcto"
+policy:
+  allow_implicit_invocation: true

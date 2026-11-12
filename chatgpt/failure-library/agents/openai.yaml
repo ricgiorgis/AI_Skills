@@ -1,0 +1,5 @@
+interface:
+  display_name: "Fallas de escritura IA"
+  short_description: "Catálogo anotado de patrones de texto generado"
+policy:
+  allow_implicit_invocation: true

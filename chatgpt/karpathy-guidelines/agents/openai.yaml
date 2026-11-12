@@ -1,0 +1,5 @@
+interface:
+  display_name: "Guías Karpathy"
+  short_description: "Reglas para evitar errores comunes de LLM al programar"
+policy:
+  allow_implicit_invocation: true

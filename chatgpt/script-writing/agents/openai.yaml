@@ -1,0 +1,5 @@
+interface:
+  display_name: "Guiones"
+  short_description: "Guiones para cine, TV, YouTube y video corto"
+policy:
+  allow_implicit_invocation: true

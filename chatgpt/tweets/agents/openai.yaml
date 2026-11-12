@@ -1,0 +1,5 @@
+interface:
+  display_name: "Tweets"
+  short_description: "Tweets e hilos con una idea real"
+policy:
+  allow_implicit_invocation: true

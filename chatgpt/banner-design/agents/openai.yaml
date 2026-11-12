@@ -1,0 +1,5 @@
+interface:
+  display_name: "Banners"
+  short_description: "Banners para redes, anuncios, web e impresión"
+policy:
+  allow_implicit_invocation: true

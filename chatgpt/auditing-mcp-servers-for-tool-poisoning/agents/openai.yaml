@@ -1,0 +1,5 @@
+interface:
+  display_name: "Auditoría de servidores MCP"
+  short_description: "Revisa un MCP antes de instalarlo: tool poisoning, shadowing, rug pulls, SSRF"
+policy:
+  allow_implicit_invocation: true

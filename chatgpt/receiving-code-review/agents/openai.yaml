@@ -1,0 +1,5 @@
+interface:
+  display_name: "Recibir revisión"
+  short_description: "Evaluar feedback de revisión con rigor antes de aplicarlo"
+policy:
+  allow_implicit_invocation: true

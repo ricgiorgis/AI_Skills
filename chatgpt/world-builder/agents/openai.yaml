@@ -1,0 +1,5 @@
+interface:
+  display_name: "Worldbuilding"
+  short_description: "Personajes, lugares, facciones, reglas e historia"
+policy:
+  allow_implicit_invocation: true

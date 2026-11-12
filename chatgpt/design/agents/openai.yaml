@@ -1,0 +1,5 @@
+interface:
+  display_name: "Diseño"
+  short_description: "Identidad de marca, tokens, logos y material corporativo"
+policy:
+  allow_implicit_invocation: true

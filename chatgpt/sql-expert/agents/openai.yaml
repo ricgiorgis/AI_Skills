@@ -1,0 +1,5 @@
+interface:
+  display_name: "SQL Server experto"
+  short_description: "T-SQL: consultas, optimización, índices y procedimientos"
+policy:
+  allow_implicit_invocation: true

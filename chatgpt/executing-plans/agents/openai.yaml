@@ -1,0 +1,5 @@
+interface:
+  display_name: "Ejecutar planes"
+  short_description: "Ejecutar un plan escrito con puntos de revisión"
+policy:
+  allow_implicit_invocation: true

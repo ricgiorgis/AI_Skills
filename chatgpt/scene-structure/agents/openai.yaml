@@ -1,0 +1,5 @@
+interface:
+  display_name: "Escenas"
+  short_description: "Mecánica de escenas y capítulos para ficción"
+policy:
+  allow_implicit_invocation: true

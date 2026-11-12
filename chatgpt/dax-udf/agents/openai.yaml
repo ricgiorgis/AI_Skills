@@ -1,0 +1,5 @@
+interface:
+  display_name: "DAX UDF"
+  short_description: "Funciones DAX definidas por el usuario en modelos semánticos"
+policy:
+  allow_implicit_invocation: true

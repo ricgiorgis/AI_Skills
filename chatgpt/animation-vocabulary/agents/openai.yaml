@@ -1,0 +1,5 @@
+interface:
+  display_name: "Vocabulario de animación"
+  short_description: "De una descripción vaga al término exacto de motion"
+policy:
+  allow_implicit_invocation: true

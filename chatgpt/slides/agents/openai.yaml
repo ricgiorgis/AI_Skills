@@ -1,0 +1,5 @@
+interface:
+  display_name: "Presentaciones HTML"
+  short_description: "Presentaciones HTML con Chart.js y design tokens"
+policy:
+  allow_implicit_invocation: true

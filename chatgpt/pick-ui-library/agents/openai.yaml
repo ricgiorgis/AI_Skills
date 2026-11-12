@@ -1,0 +1,5 @@
+interface:
+  display_name: "Elegir librería UI"
+  short_description: "Librería frontend recomendada según la tarea"
+policy:
+  allow_implicit_invocation: true

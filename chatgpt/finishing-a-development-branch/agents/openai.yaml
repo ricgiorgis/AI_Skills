@@ -1,0 +1,5 @@
+interface:
+  display_name: "Cerrar rama"
+  short_description: "Decidir cómo integrar trabajo terminado"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Oportunidades de animación"
+  short_description: "Dónde falta motion en una UI y dónde sobra"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Design engineering"
+  short_description: "Pulido de UI y decisiones de animación estilo Emil Kowalski"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Análisis de datos"
+  short_description: "Exploración iterativa con hallazgos verificados por recálculo"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Crear skills"
+  short_description: "Crear, editar y medir skills"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Calculation groups"
+  short_description: "Grupos de cálculo en TMDL: inteligencia de tiempo y escenarios"
+policy:
+  allow_implicit_invocation: true

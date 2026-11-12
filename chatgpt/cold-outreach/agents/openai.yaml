@@ -1,0 +1,5 @@
+interface:
+  display_name: "Outreach en frío"
+  short_description: "Correos y mensajes de prospección"
+policy:
+  allow_implicit_invocation: true

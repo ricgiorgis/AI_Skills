@@ -1,0 +1,5 @@
+interface:
+  display_name: "Prompt injection indirecta"
+  short_description: "Filtra instrucciones ocultas en webs, PDFs e imágenes antes de que las lea un agente"
+policy:
+  allow_implicit_invocation: true

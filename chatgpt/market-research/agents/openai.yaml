@@ -1,0 +1,5 @@
+interface:
+  display_name: "Investigación de mercado"
+  short_description: "TAM/SAM/SOM, personas y dimensionamiento"
+policy:
+  allow_implicit_invocation: true

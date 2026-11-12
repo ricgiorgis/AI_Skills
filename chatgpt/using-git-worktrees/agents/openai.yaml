@@ -1,0 +1,5 @@
+interface:
+  display_name: "Git worktrees"
+  short_description: "Aislar trabajo en worktrees"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,11 @@
+{
+  "name": "ai-skills",
+  "description": "Skills para Claude y ChatGPT: datos, desarrollo, seguridad, diseño, escritura y negocio.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rik Giorgis"
+  },
+  "homepage": "https://github.com/ricgiorgis/AI_Skills",
+  "repository": "https://github.com/ricgiorgis/AI_Skills",
+  "license": "MIT"
+}

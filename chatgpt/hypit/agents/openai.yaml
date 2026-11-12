@@ -1,0 +1,5 @@
+interface:
+  display_name: "Hypit"
+  short_description: "Clonar o crear videos cortos desde un reel de referencia o un brief"
+policy:
+  allow_implicit_invocation: true

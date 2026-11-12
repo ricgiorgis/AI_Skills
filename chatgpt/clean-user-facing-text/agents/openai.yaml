@@ -1,0 +1,5 @@
+interface:
+  display_name: "Limpiar texto"
+  short_description: "Limpiar Unicode invisible y pulir prosa sin cambiar hechos"
+policy:
+  allow_implicit_invocation: true

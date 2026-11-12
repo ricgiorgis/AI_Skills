@@ -1,0 +1,5 @@
+interface:
+  display_name: "Crear ofertas"
+  short_description: "Estructurar oferta, garantías y bonos"
+policy:
+  allow_implicit_invocation: true

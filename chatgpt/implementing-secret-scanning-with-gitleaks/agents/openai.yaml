@@ -1,0 +1,5 @@
+interface:
+  display_name: "Escaneo de secretos (Gitleaks)"
+  short_description: "Detecta llaves y tokens en el historial de git; pre-commit, CI y rotación"
+policy:
+  allow_implicit_invocation: true

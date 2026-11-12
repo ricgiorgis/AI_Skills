@@ -1,0 +1,5 @@
+interface:
+  display_name: "Marca"
+  short_description: "Voz, identidad visual y consistencia de marca"
+policy:
+  allow_implicit_invocation: true

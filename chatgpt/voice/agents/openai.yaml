@@ -1,0 +1,5 @@
+interface:
+  display_name: "Perfiles de voz"
+  short_description: "Administrar perfiles de voz de escritura"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Revisar animaciones"
+  short_description: "Revisión exigente de código de motion"
+policy:
+  allow_implicit_invocation: true

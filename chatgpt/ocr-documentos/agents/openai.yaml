@@ -1,0 +1,5 @@
+interface:
+  display_name: "OCR de documentos"
+  short_description: "Escaneos y fotos a texto con PaddleOCR, confianza y cotejo de cifras"
+policy:
+  allow_implicit_invocation: true

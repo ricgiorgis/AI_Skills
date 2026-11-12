@@ -1,0 +1,5 @@
+interface:
+  display_name: "Typosquatting en npm y PyPI"
+  short_description: "Detecta paquetes que imitan nombres de librerías legítimas"
+policy:
+  allow_implicit_invocation: true

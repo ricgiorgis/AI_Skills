@@ -1,0 +1,5 @@
+interface:
+  display_name: "Design system"
+  short_description: "Tokens en tres capas, componentes y escalas"
+policy:
+  allow_implicit_invocation: true

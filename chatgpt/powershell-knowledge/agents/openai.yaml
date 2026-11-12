@@ -1,0 +1,5 @@
+interface:
+  display_name: "PowerShell"
+  short_description: "Scripts, módulos y automatización en Windows"
+policy:
+  allow_implicit_invocation: true

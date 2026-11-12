@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ai-skills",
+  "description": "Biblioteca pública de skills de Rik Giorgis",
+  "owner": {
+    "name": "Rik Giorgis"
+  },
+  "plugins": [
+    {
+      "name": "ai-skills",
+      "description": "Todas las skills de skills/ en un solo plugin.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/ricgiorgis/AI_Skills"
+    }
+  ]
+}

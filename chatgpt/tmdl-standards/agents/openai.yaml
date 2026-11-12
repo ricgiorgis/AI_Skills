@@ -1,0 +1,5 @@
+interface:
+  display_name: "Estándares TMDL"
+  short_description: "Reglas de sintaxis TMDL para tablas, medidas y UDFs"
+policy:
+  allow_implicit_invocation: true

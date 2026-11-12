@@ -1,0 +1,5 @@
+interface:
+  display_name: "Verificar antes de cerrar"
+  short_description: "Correr verificaciones antes de declarar algo terminado"
+policy:
+  allow_implicit_invocation: true

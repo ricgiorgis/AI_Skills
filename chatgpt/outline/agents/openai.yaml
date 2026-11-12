@@ -1,0 +1,5 @@
+interface:
+  display_name: "Outline"
+  short_description: "De idea vaga a estructura concreta según formato"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,400 @@
+{
+  "categories": [
+    "Power BI y Fabric",
+    "Datos",
+    "Desarrollo",
+    "Seguridad",
+    "Diseño y frontend",
+    "Escritura",
+    "Negocio",
+    "Investigación"
+  ],
+  "skills": {
+    "calc-groups": {
+      "category": "Power BI y Fabric",
+      "display": "Calculation groups",
+      "short": "Grupos de cálculo en TMDL: inteligencia de tiempo y escenarios"
+    },
+    "dax-udf": {
+      "category": "Power BI y Fabric",
+      "display": "DAX UDF",
+      "short": "Funciones DAX definidas por el usuario en modelos semánticos"
+    },
+    "iconography": {
+      "category": "Power BI y Fabric",
+      "display": "Iconografía Power BI",
+      "short": "Sistema de íconos SVG para reportes de Power BI"
+    },
+    "measures": {
+      "category": "Power BI y Fabric",
+      "display": "Medidas DAX",
+      "short": "Diseño, nombres e implementación de medidas DAX"
+    },
+    "standardize-naming-conventions": {
+      "category": "Power BI y Fabric",
+      "display": "Convenciones de nombres",
+      "short": "Estandarizar nombres en modelos TMDL"
+    },
+    "tmdl-standards": {
+      "category": "Power BI y Fabric",
+      "display": "Estándares TMDL",
+      "short": "Reglas de sintaxis TMDL para tablas, medidas y UDFs"
+    },
+    "anomaly-investigation": {
+      "category": "Datos",
+      "display": "Investigar anomalías",
+      "short": "Causa raíz de un pico, caída o valor inesperado"
+    },
+    "data-analysis": {
+      "category": "Datos",
+      "display": "Análisis de datos",
+      "short": "Exploración iterativa con hallazgos verificados por recálculo"
+    },
+    "powershell-knowledge": {
+      "category": "Datos",
+      "display": "PowerShell",
+      "short": "Scripts, módulos y automatización en Windows"
+    },
+    "sql-expert": {
+      "category": "Datos",
+      "display": "SQL Server experto",
+      "short": "T-SQL: consultas, optimización, índices y procedimientos"
+    },
+    "ocr-documentos": {
+      "category": "Datos",
+      "display": "OCR de documentos",
+      "short": "Escaneos y fotos a texto con PaddleOCR, confianza y cotejo de cifras"
+    },
+    "architecture-design": {
+      "category": "Desarrollo",
+      "display": "Arquitectura",
+      "short": "Diseñar o evaluar arquitectura de sistemas"
+    },
+    "code-review": {
+      "category": "Desarrollo",
+      "display": "Revisión de código",
+      "short": "Revisar código y pull requests"
+    },
+    "executing-plans": {
+      "category": "Desarrollo",
+      "display": "Ejecutar planes",
+      "short": "Ejecutar un plan escrito con puntos de revisión"
+    },
+    "finishing-a-development-branch": {
+      "category": "Desarrollo",
+      "display": "Cerrar rama",
+      "short": "Decidir cómo integrar trabajo terminado"
+    },
+    "karpathy-guidelines": {
+      "category": "Desarrollo",
+      "display": "Guías Karpathy",
+      "short": "Reglas para evitar errores comunes de LLM al programar"
+    },
+    "receiving-code-review": {
+      "category": "Desarrollo",
+      "display": "Recibir revisión",
+      "short": "Evaluar feedback de revisión con rigor antes de aplicarlo"
+    },
+    "skill-creator": {
+      "category": "Desarrollo",
+      "display": "Crear skills",
+      "short": "Crear, editar y medir skills"
+    },
+    "systematic-debugging": {
+      "category": "Desarrollo",
+      "display": "Debugging sistemático",
+      "short": "Diagnosticar bugs antes de proponer arreglos"
+    },
+    "test-driven-development": {
+      "category": "Desarrollo",
+      "display": "TDD",
+      "short": "Pruebas primero en features y bugfixes"
+    },
+    "using-git-worktrees": {
+      "category": "Desarrollo",
+      "display": "Git worktrees",
+      "short": "Aislar trabajo en worktrees"
+    },
+    "verification-before-completion": {
+      "category": "Desarrollo",
+      "display": "Verificar antes de cerrar",
+      "short": "Correr verificaciones antes de declarar algo terminado"
+    },
+    "writing-plans": {
+      "category": "Desarrollo",
+      "display": "Escribir planes",
+      "short": "Plan de implementación a partir de un spec"
+    },
+    "animate": {
+      "category": "Diseño y frontend",
+      "display": "Animar",
+      "short": "Construir una animación decidiendo en el orden correcto"
+    },
+    "animate-expo": {
+      "category": "Diseño y frontend",
+      "display": "Animar en Expo",
+      "short": "Animaciones en React Native y Expo"
+    },
+    "animation-vocabulary": {
+      "category": "Diseño y frontend",
+      "display": "Vocabulario de animación",
+      "short": "De una descripción vaga al término exacto de motion"
+    },
+    "apple-design": {
+      "category": "Diseño y frontend",
+      "display": "Diseño estilo Apple",
+      "short": "Gestos, springs y movimiento físico para la web"
+    },
+    "ask-sonner": {
+      "category": "Diseño y frontend",
+      "display": "Sonner",
+      "short": "Toasts en React con Sonner"
+    },
+    "banner-design": {
+      "category": "Diseño y frontend",
+      "display": "Banners",
+      "short": "Banners para redes, anuncios, web e impresión"
+    },
+    "brand": {
+      "category": "Diseño y frontend",
+      "display": "Marca",
+      "short": "Voz, identidad visual y consistencia de marca"
+    },
+    "design": {
+      "category": "Diseño y frontend",
+      "display": "Diseño",
+      "short": "Identidad de marca, tokens, logos y material corporativo"
+    },
+    "design-system": {
+      "category": "Diseño y frontend",
+      "display": "Design system",
+      "short": "Tokens en tres capas, componentes y escalas"
+    },
+    "emil-design-eng": {
+      "category": "Diseño y frontend",
+      "display": "Design engineering",
+      "short": "Pulido de UI y decisiones de animación estilo Emil Kowalski"
+    },
+    "find-animation-opportunities": {
+      "category": "Diseño y frontend",
+      "display": "Oportunidades de animación",
+      "short": "Dónde falta motion en una UI y dónde sobra"
+    },
+    "improve-animations": {
+      "category": "Diseño y frontend",
+      "display": "Mejorar animaciones",
+      "short": "Auditoría priorizada del código de animación"
+    },
+    "pick-ui-library": {
+      "category": "Diseño y frontend",
+      "display": "Elegir librería UI",
+      "short": "Librería frontend recomendada según la tarea"
+    },
+    "prototype": {
+      "category": "Diseño y frontend",
+      "display": "Prototipos",
+      "short": "Varias versiones de una pieza de UI para comparar en vivo",
+      "explicit": true
+    },
+    "review-animations": {
+      "category": "Diseño y frontend",
+      "display": "Revisar animaciones",
+      "short": "Revisión exigente de código de motion"
+    },
+    "slides": {
+      "category": "Diseño y frontend",
+      "display": "Presentaciones HTML",
+      "short": "Presentaciones HTML con Chart.js y design tokens"
+    },
+    "ui-styling": {
+      "category": "Diseño y frontend",
+      "display": "UI styling",
+      "short": "Interfaces con shadcn/ui y Tailwind"
+    },
+    "web-artifacts-builder": {
+      "category": "Diseño y frontend",
+      "display": "Artifacts web",
+      "short": "Artifacts HTML complejos con React, Tailwind y shadcn/ui"
+    },
+    "audit": {
+      "category": "Escritura",
+      "display": "Auditoría de texto",
+      "short": "Reescribir un borrador sin tono de IA, con antes y después"
+    },
+    "clean-user-facing-text": {
+      "category": "Escritura",
+      "display": "Limpiar texto",
+      "short": "Limpiar Unicode invisible y pulir prosa sin cambiar hechos"
+    },
+    "failure-library": {
+      "category": "Escritura",
+      "display": "Fallas de escritura IA",
+      "short": "Catálogo anotado de patrones de texto generado"
+    },
+    "internal-comms": {
+      "category": "Escritura",
+      "display": "Comunicación interna",
+      "short": "Updates, reportes de estado, FAQs y newsletters internos"
+    },
+    "linkedin": {
+      "category": "Escritura",
+      "display": "LinkedIn",
+      "short": "Posts y artículos sin postureo"
+    },
+    "newsletter-creative": {
+      "category": "Escritura",
+      "display": "Newsletter narrativo",
+      "short": "Newsletters personales con estructura narrativa"
+    },
+    "newsletter-technical": {
+      "category": "Escritura",
+      "display": "Newsletter técnico",
+      "short": "Tutoriales, análisis y explicadores con datos"
+    },
+    "outline": {
+      "category": "Escritura",
+      "display": "Outline",
+      "short": "De idea vaga a estructura concreta según formato"
+    },
+    "sales-copy": {
+      "category": "Escritura",
+      "display": "Copy de ventas",
+      "short": "Páginas de venta y secuencias por claridad, no manipulación"
+    },
+    "scene-structure": {
+      "category": "Escritura",
+      "display": "Escenas",
+      "short": "Mecánica de escenas y capítulos para ficción"
+    },
+    "script-writing": {
+      "category": "Escritura",
+      "display": "Guiones",
+      "short": "Guiones para cine, TV, YouTube y video corto"
+    },
+    "social-media": {
+      "category": "Escritura",
+      "display": "Redes sociales",
+      "short": "Contenido nativo para X, LinkedIn e Instagram"
+    },
+    "substack-notes": {
+      "category": "Escritura",
+      "display": "Substack Notes",
+      "short": "Notas cortas con una idea adentro"
+    },
+    "tweets": {
+      "category": "Escritura",
+      "display": "Tweets",
+      "short": "Tweets e hilos con una idea real"
+    },
+    "voice": {
+      "category": "Escritura",
+      "display": "Perfiles de voz",
+      "short": "Administrar perfiles de voz de escritura"
+    },
+    "web-copy": {
+      "category": "Escritura",
+      "display": "Copy web",
+      "short": "Copy de sitio y landing pages"
+    },
+    "world-builder": {
+      "category": "Escritura",
+      "display": "Worldbuilding",
+      "short": "Personajes, lugares, facciones, reglas e historia"
+    },
+    "automation-workflows": {
+      "category": "Negocio",
+      "display": "Automatizaciones",
+      "short": "Diseñar flujos en Zapier, Make, n8n o scripts"
+    },
+    "cold-outreach": {
+      "category": "Negocio",
+      "display": "Outreach en frío",
+      "short": "Correos y mensajes de prospección"
+    },
+    "decision-frameworks": {
+      "category": "Negocio",
+      "display": "Marcos de decisión",
+      "short": "Reversibilidad, puntaje ponderado y pre-mortem"
+    },
+    "financial-modeling": {
+      "category": "Negocio",
+      "display": "Modelo financiero",
+      "short": "Proyecciones de ingresos, gastos, flujo y escenarios"
+    },
+    "market-research": {
+      "category": "Negocio",
+      "display": "Investigación de mercado",
+      "short": "TAM/SAM/SOM, personas y dimensionamiento"
+    },
+    "offer-creation": {
+      "category": "Negocio",
+      "display": "Crear ofertas",
+      "short": "Estructurar oferta, garantías y bonos"
+    },
+    "pricing-strategy": {
+      "category": "Negocio",
+      "display": "Estrategia de precios",
+      "short": "Precios por valor, niveles y anclaje"
+    },
+    "sop-builder": {
+      "category": "Negocio",
+      "display": "SOPs",
+      "short": "Procedimientos operativos repetibles"
+    },
+    "unit-economics": {
+      "category": "Negocio",
+      "display": "Unit economics",
+      "short": "CAC, LTV, payback, margen y punto de equilibrio"
+    },
+    "deep-research": {
+      "category": "Investigación",
+      "display": "Investigación profunda",
+      "short": "Investigación multi-fuente con informe citado"
+    },
+    "implementing-secret-scanning-with-gitleaks": {
+      "category": "Seguridad",
+      "display": "Escaneo de secretos (Gitleaks)",
+      "short": "Detecta llaves y tokens en el historial de git; pre-commit, CI y rotación"
+    },
+    "implementing-api-key-security-controls": {
+      "category": "Seguridad",
+      "display": "Seguridad de API keys",
+      "short": "Generación, hash, scoping, rotación y monitoreo de fugas de API keys"
+    },
+    "testing-api-security-with-owasp-top-10": {
+      "category": "Seguridad",
+      "display": "API vs OWASP Top 10",
+      "short": "Prueba endpoints REST/GraphQL contra el OWASP API Security Top 10 antes de producción"
+    },
+    "auditing-mcp-servers-for-tool-poisoning": {
+      "category": "Seguridad",
+      "display": "Auditoría de servidores MCP",
+      "short": "Revisa un MCP antes de instalarlo: tool poisoning, shadowing, rug pulls, SSRF"
+    },
+    "securing-agentic-ai-tool-invocation": {
+      "category": "Seguridad",
+      "display": "Blindaje de agentes con herramientas",
+      "short": "Allowlist, mínimo privilegio, aprobación humana y bitácora en agentes con efectos reales"
+    },
+    "detecting-indirect-prompt-injection": {
+      "category": "Seguridad",
+      "display": "Prompt injection indirecta",
+      "short": "Filtra instrucciones ocultas en webs, PDFs e imágenes antes de que las lea un agente"
+    },
+    "detecting-malicious-npm-packages": {
+      "category": "Seguridad",
+      "display": "Paquetes npm maliciosos",
+      "short": "Revisa dependencias y lockfiles por malware en install scripts y robo de credenciales"
+    },
+    "detecting-typosquatting-packages-in-npm-pypi": {
+      "category": "Seguridad",
+      "display": "Typosquatting en npm y PyPI",
+      "short": "Detecta paquetes que imitan nombres de librerías legítimas"
+    },
+    "hypit": {
+      "category": "Diseño y frontend",
+      "display": "Hypit",
+      "short": "Clonar o crear videos cortos desde un reel de referencia o un brief"
+    }
+  }
+}

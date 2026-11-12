@@ -1,0 +1,5 @@
+interface:
+  display_name: "Escribir planes"
+  short_description: "Plan de implementación a partir de un spec"
+policy:
+  allow_implicit_invocation: true

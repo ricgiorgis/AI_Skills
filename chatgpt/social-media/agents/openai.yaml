@@ -1,0 +1,5 @@
+interface:
+  display_name: "Redes sociales"
+  short_description: "Contenido nativo para X, LinkedIn e Instagram"
+policy:
+  allow_implicit_invocation: true

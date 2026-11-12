@@ -1,0 +1,5 @@
+interface:
+  display_name: "Modelo financiero"
+  short_description: "Proyecciones de ingresos, gastos, flujo y escenarios"
+policy:
+  allow_implicit_invocation: true

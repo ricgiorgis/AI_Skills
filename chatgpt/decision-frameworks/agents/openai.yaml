@@ -1,0 +1,5 @@
+interface:
+  display_name: "Marcos de decisión"
+  short_description: "Reversibilidad, puntaje ponderado y pre-mortem"
+policy:
+  allow_implicit_invocation: true

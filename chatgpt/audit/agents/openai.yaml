@@ -1,0 +1,5 @@
+interface:
+  display_name: "Auditoría de texto"
+  short_description: "Reescribir un borrador sin tono de IA, con antes y después"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Newsletter narrativo"
+  short_description: "Newsletters personales con estructura narrativa"
+policy:
+  allow_implicit_invocation: true

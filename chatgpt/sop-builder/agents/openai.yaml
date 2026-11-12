@@ -1,0 +1,5 @@
+interface:
+  display_name: "SOPs"
+  short_description: "Procedimientos operativos repetibles"
+policy:
+  allow_implicit_invocation: true

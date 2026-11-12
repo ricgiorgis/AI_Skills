@@ -1,0 +1,5 @@
+interface:
+  display_name: "LinkedIn"
+  short_description: "Posts y artículos sin postureo"
+policy:
+  allow_implicit_invocation: true

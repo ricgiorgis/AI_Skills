@@ -1,0 +1,5 @@
+interface:
+  display_name: "Automatizaciones"
+  short_description: "Diseñar flujos en Zapier, Make, n8n o scripts"
+policy:
+  allow_implicit_invocation: true

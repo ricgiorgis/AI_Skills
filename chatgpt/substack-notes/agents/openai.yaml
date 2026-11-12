@@ -1,0 +1,5 @@
+interface:
+  display_name: "Substack Notes"
+  short_description: "Notas cortas con una idea adentro"
+policy:
+  allow_implicit_invocation: true

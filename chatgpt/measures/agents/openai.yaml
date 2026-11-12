@@ -1,0 +1,5 @@
+interface:
+  display_name: "Medidas DAX"
+  short_description: "Diseño, nombres e implementación de medidas DAX"
+policy:
+  allow_implicit_invocation: true

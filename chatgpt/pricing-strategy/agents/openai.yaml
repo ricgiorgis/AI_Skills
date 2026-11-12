@@ -1,0 +1,5 @@
+interface:
+  display_name: "Estrategia de precios"
+  short_description: "Precios por valor, niveles y anclaje"
+policy:
+  allow_implicit_invocation: true

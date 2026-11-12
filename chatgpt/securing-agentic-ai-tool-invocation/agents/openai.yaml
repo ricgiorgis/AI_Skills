@@ -1,0 +1,5 @@
+interface:
+  display_name: "Blindaje de agentes con herramientas"
+  short_description: "Allowlist, mínimo privilegio, aprobación humana y bitácora en agentes con efectos reales"
+policy:
+  allow_implicit_invocation: true

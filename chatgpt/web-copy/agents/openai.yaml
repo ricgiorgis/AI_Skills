@@ -1,0 +1,5 @@
+interface:
+  display_name: "Copy web"
+  short_description: "Copy de sitio y landing pages"
+policy:
+  allow_implicit_invocation: true

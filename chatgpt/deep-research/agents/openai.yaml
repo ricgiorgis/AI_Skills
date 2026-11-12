@@ -1,0 +1,5 @@
+interface:
+  display_name: "Investigación profunda"
+  short_description: "Investigación multi-fuente con informe citado"
+policy:
+  allow_implicit_invocation: true

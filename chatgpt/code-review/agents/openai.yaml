@@ -1,0 +1,5 @@
+interface:
+  display_name: "Revisión de código"
+  short_description: "Revisar código y pull requests"
+policy:
+  allow_implicit_invocation: true

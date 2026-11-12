@@ -1,0 +1,5 @@
+interface:
+  display_name: "Iconografía Power BI"
+  short_description: "Sistema de íconos SVG para reportes de Power BI"
+policy:
+  allow_implicit_invocation: true

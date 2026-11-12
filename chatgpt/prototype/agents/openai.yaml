@@ -1,0 +1,5 @@
+interface:
+  display_name: "Prototipos"
+  short_description: "Varias versiones de una pieza de UI para comparar en vivo"
+policy:
+  allow_implicit_invocation: false

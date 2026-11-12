@@ -1,0 +1,5 @@
+interface:
+  display_name: "Newsletter técnico"
+  short_description: "Tutoriales, análisis y explicadores con datos"
+policy:
+  allow_implicit_invocation: true
